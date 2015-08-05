@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+I'm a developer hailing from India. I have a bachelors in Computer
+Science from PES University, Bangalore. I love anything to do with hardware, systems, web and open source. This is where I pen down all my ideas and opinions for others to see.
+This website is built using Jekyll and is available on GitHub.
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
