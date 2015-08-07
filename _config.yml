@@ -10,7 +10,7 @@ tagline:             'Just another developer'
 description:         'A software developer with a passion for systems and physical computing'
 url:                 http://deepakkarki.github.io
 baseurl:             '/blog'
-paginate:            5
+paginate:            8
 
 #destination
 destination:         ../deepakkarki.github.io/blog
@@ -22,3 +22,7 @@ author:
 
 # Custom vars
 version:             1.0.0
+github:
+  repo: 'http://github.com/deepakkarki'
+# Global configs
+excerpt_separator: <!--more-->
