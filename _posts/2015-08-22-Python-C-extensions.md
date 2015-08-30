@@ -4,7 +4,7 @@ title: Python C extensions
 ---
 
 <div class="message">
-The <a href="http://deepakkarki.github.io/blog/2015/08/08/The-Hackend-Project/">Hackend Project</a> - Week 4
+The <a href="http://deepakkarki.github.io/blog/2015/08/08/The-Hackend-Project/">Hackend Project</a> - Week 3
 </div>
 
 This week I learnt about and experemented with the various ways C code can be interfaced with python.
@@ -12,6 +12,7 @@ This week I learnt about and experemented with the various ways C code can be in
 <!--more-->
 
 Three main techniques I covered were
+
 * ctypes
 * SWIG
 * Python/C API
