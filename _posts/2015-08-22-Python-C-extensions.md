@@ -11,10 +11,11 @@ This week I learnt about and experemented with the various ways C code can be in
 
 <!--more-->
 
-Three main techniques I covered were 
+Three main techniques I covered were
 * ctypes
 * SWIG
 * Python/C API
 
 More info [here](https://github.com/deepakkarki/hackend-project/blob/master/week-4/Python-C-extensions.rst).
 
+Also, my writeup got accepted as a chapter in the book [intermediate python](http://book.pythontips.com/en/latest/python_c_extension.html)
